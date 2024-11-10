@@ -2,19 +2,12 @@
 
 ###
 
-<p align="left">Mi nombre Esaú y actualmente soy UX/UI Designer y Fronted Developer. 💻</p>
+<p align="left">Mi name is Esaú and currently I am a UX/UI Designer and Fronted Developer. 💻</p>
 
 ###
 
-<h2 align="left">Sobre mí</h2>
 
-###
-
-<p align="left">🎸 Me apasiona tocar la guitarra. La música es una de mis grandes pasiones; tocar la guitarra me ayuda a mantener la creatividad y disciplina que aplico en mi trabajo diario.<br><br>🎾Amo jugar Squash. Un deporte que me desafía y me enseña a mantenerme enfocado y competitivo.<br><br>👨‍💻 Disfruto de enfrentarme a muchos desafíos. Aprecio los desafíos, ya que me brindan oportunidades constantes para aprender y mejorar mis habilidades.<br><br>☠️ Algunas veces uso Kali Linux (Ya sabes para qué…) Me interesa la seguridad informática y, ocasionalmente, exploro herramientas avanzadas en Linux para fortalecer mis conocimientos en el área.</p>
-
-###
-
-<h2 align="left">Tecnologías que uso</h2>
+<h2 align="left">Technologies that I use</h2>
 
 ###
 
@@ -42,7 +35,7 @@
 
 ###
 
-<h2 align="left">Sígueme en mis redes sociales</h2>
+<h2 align="left">Follow me</h2>
 
 ###
 
