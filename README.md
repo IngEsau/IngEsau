@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi name is Esaú and currently I am a UX/UI Designer and Fronted Developer. 💻</p>
+<p align="left">I am currently working as a UX/UI Designer and Front-End Developer. 💻</p>
 
 ###
 
@@ -44,9 +44,6 @@
 <div align="left">
   <a href="www.linkedin.com/in/daniel-esaú-negrete-aguilar-126bb124a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/daniel.esau.1029/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/esau_aguilar.na/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
