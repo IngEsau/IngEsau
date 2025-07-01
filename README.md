@@ -3,8 +3,7 @@
 ###
 
 <p align="left">
-  I am currently working as a UX/UI Designer & Front‑End Developer 💻 |
-  Ethical Hacker – Red Hat Team 💀
+  UX/UI Designer • Front‑end Developer • Ethical Hacker
 </p>
 
 ###
