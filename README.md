@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello World</h1>
 
 <p align="left">
-  🎨 UX/UI Designer &nbsp;•&nbsp; 💻 Fullstack Developer &nbsp;•&nbsp; 🛡️ Ethical Hacker
+  🎨 Lead UX/UI Designer &nbsp;•&nbsp; 💻 Fullstack Developer &nbsp;•&nbsp; 🛡️ Ethical Hacker
 </p>
 
 ---
