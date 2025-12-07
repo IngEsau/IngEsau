@@ -9,7 +9,7 @@
 <h2 align="left">⚙️ Technologies I Master</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,wordpress,react,angular,typescript,nestjs,python,bash,c,django,flask,linux,kali,ubuntu" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,wordpress,react,angular,next,typescript,nestjs,python,bash,c,django,flask,linux,kali,ubuntu" height="40"/>
 </p>
 
 <p align="left">
