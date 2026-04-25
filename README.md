@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm Esaú Aguilar</h1>
 
 <p align="left">
-  <strong>Backend-first Full Stack Developer</strong> focused on APIs, business systems, mobile apps, and practical cybersecurity.
+  <strong>Full Stack Developer</strong> focused on APIs, business systems, mobile apps, and practical cybersecurity.
 </p>
 
 <p align="left">
