@@ -52,5 +52,5 @@ Spec-Driven Development · React Native · Docker Deployments · Ethical Hacking
 ---
 
 ## 🌐 Portfolio
-<p align="left"> <a href="https://portfolio-haw9hma7h-ingesaus-projects.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /> </a> </p>
+<p align="left"> <a href="https://portfolio-rho-lyart-h7gxpbcqx1.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /> </a> </p>
 <p align="left"> <sub> Icons by <a href="https://skillicons.dev/">Skill Icons</a>. Technology names and logos belong to their respective owners. </sub> </p>
