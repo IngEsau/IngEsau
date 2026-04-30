@@ -27,7 +27,7 @@
 ### DevOps, Systems & Security
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,kali,bash,git,github,nginx" height="42" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,fedora,kali,bash,git,github,nginx" height="42" />
 </p>
 
 ---
