@@ -44,13 +44,6 @@ Backend Engineering · REST APIs · ERP Systems · Mobile Apps · UX/UI · Cyber
 ```txt
 Spec-Driven Development · React Native · Docker Deployments · Ethical Hacking · System Design
 ```
----
-
-## 📊 GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=IngEsau&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngEsau&layout=compact&theme=tokyonight&hide_border=true" height="160" /> </p>
-
----
 
 ## 🌐 Portfolio
 <p align="left"> <a href="https://portfolio-rho-lyart-h7gxpbcqx1.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /> </a> </p>
