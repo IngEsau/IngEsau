@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Esaú Aguilar 👋</h1>
+<h1 align="left">Hi, I'm Esaú Aguilar.</h1>
 
 <p align="left">
   <strong>Software Development & Management Engineer</strong> · 
